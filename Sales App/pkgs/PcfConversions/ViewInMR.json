@@ -1,0 +1,16 @@
+{
+  "Name": "ViewInMR",
+  "PcfConversions": [
+    {
+      "Action": [
+        {
+          "Name": "EnableShadows",
+          "Type": "add"
+        }
+      ],
+      "From": "1.0.12",
+      "To": "1.0.13"
+    }
+  ],
+  "Version": "1.0.20"
+}
